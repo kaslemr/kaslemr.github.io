@@ -6,6 +6,7 @@ title: What Defines a Data Scientist
 What is a data scientist? I can take my own experience in the field as some inspiration. A data scientist in my mind has knowledge in the follwoing four areas:
 <br />
 <br />
+<br />
 1) Programming:<br />
 I first entered the field of data science by learning how to code. I quit my job after 1 and a half years living in New York City post-college with a desire to enter the field of data science. I enrolled in a 3-month bootcamp dedicated to learning python, backend web development, and data science. This first experience showed me that a big part of data science is understanding how to put ideas into action through programming. That can be implementing a machine learning algorithm or creating an R Shiny dashboard to present data analysis.  Learning how to program opened up a lot of doors to learn data analysis...<br />
 <br />
