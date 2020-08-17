@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a statistics graduate student at North Carolina State University and current Director of Analytics at MyHealthDirect, a part of Experian Health. I seek to make a difference in health care access using data, I currently live in Nashville, TN, am engaged to a wonderful fiancee, and an avid fan of the Boston Celtics.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mattkasle@gmail.com](mailto:mattkasle@gmail.com)
