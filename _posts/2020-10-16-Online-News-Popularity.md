@@ -2,7 +2,7 @@
 layout: post
 title: Reflection on the Online News Popularity Analysis
 ---
-[Github Pages Repo](https://kaslemr.github.io/Online-News-Popularity/)
+[Github Pages Repo](https://kaslemr.github.io/Online-News-Popularity-Blog-Post/)
 
 My process for this project began with reading in and exploring the online news dataset. I also read the paper **Predicting and Evaluating the Popularity of Online News** by Hen and Yang, which provided additional context to the features created in this dataset and attempts to predict the number of social media shares. The objective of this project was relatively simple - predict the popularity of each article. Much of the hard work was done already because there were a lot of features that characterized the articles using natural language processing techniques such as sentiment analysis and word counting. I started by visualizing the dataset with exploratory analysis and noticed the the response variable had a very large range, and a few outliers. These outliers were articles that were shared a many times more than other articles - this would probably affect the predictions.
 
